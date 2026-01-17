@@ -6,7 +6,7 @@
 }
 
 body {
-	background-color: #96C3CE; 
+	background-color: #8E8DCE; 
 	margin-left: 20%;
 	margin-right: 20%;
 	border: 2px dotted black;
@@ -15,8 +15,8 @@ body {
 }
 
 blockquote.q {
-	color: #660099;
-	border-left: 4px solid #000080;
+	color: #496B00;
+	border-left: 4px solid #0B16DD;
 	font-style: italic;
 	padding-left: 16px;
 	margin-left: 0;
